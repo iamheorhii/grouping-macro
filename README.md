@@ -27,7 +27,7 @@ You can adjust these references in the code if your layout differs.
 
 ## Setup / Installation
 
-1. Download `src/CanLidGrouping.bas`
+1. Download `grouping-macro.bas`
 2. Open Excel -> `Alt + F11` (VBA Editor)
 3. `File -> Import File…` and select `CanLidGrouping.bas`
 4. Implement your rules in:
